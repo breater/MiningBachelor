@@ -1,0 +1,12 @@
+Ausleihen: Extra Spalte für Reeele Werte
+
+Rückgabe: Spalte für predicted Rückgaben
+
+
+Outer Join auf Ausleihen und Rückgabe 
+-vorher counts umbennenen
+-2 spalten Differenz reell , differenz predicted
+
+- auf test-daten machen
+
+-z.B. Monat nehmen, der nicht auf in den daten drinnen ist
