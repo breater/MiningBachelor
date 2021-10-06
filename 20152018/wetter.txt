@@ -1,0 +1,49 @@
+0                                      Clear
+1                                      Sunny
+21                                    Cloudy
+23                                Light rain
+27                                Heavy rain
+28                             Moderate rain
+35                             Partly cloudy
+40                    Moderate rain at times
+42                      Patchy rain possible
+43                      Patchy snow possible
+45                      Patchy moderate snow
+48                                  Blizzard
+51                              Blowing snow
+61                                Heavy snow
+68                         Patchy heavy snow
+104                        Patchy light snow
+137                         Freezing drizzle
+146                     Patchy light drizzle
+162                                 Overcast
+256                               Light snow
+259                            Moderate snow
+297                              Light sleet
+307           Moderate or heavy snow showers
+400          Moderate or heavy freezing rain
+470                            Light drizzle
+476                   Heavy freezing drizzle
+480                              Ice pellets
+614                                      Fog
+617                                     Mist
+794                        Patchy light rain
+850                      Heavy rain at times
+874            Moderate or heavy rain shower
+966                  Moderate or heavy sleet
+1044                       Light rain shower
+1053                  Torrential rain shower
+1473             Thundery outbreaks possible
+2650          Patchy light rain with thunder
+6065                     Light freezing rain
+6429     Moderate or heavy rain with thunder
+12980                  Patchy sleet possible
+13430                    Light sleet showers
+20813                     Light snow showers
+
+
+
+1: Clear, Partly cloudy, Sunny
+2: Cloudy, Overcast, Fog, Mist, 
+3: Light Rain, Moderate Rain, Moderate rain at times, Patchy rain possible, Patchy light snow, Light snow, Light sleet, Light drizzle, Patchy light drizzle, Patchy light rain, Light rain shower, Patchy light rain with thunder, Light freezing rain, Patchy sleet possible, Light sleet showers, Light snow showers
+4: Heavy Rain, Patchy snow possible, Patchy moderate snow, Blizzard, Blowing snow, Heavy snow, Patchy heavy snow, Freezing drizzle, Moderate snow, Moderate or heavy snow showers, Moderate or heavy freezing rain, Heavy freezing drizzle, Ice pellets, Heavy rain at times, Moderate or heavy rain shower, Moderate or heavy sleet, Torrential rain shower, Thundery outbreaks possible, Moderate or heavy rain with thunder
